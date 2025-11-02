@@ -7,7 +7,7 @@ Calculator built using **HTML, CSS, and Javascript**, delivering a clean Ul and 
 ### Home Page
 ![HomePage](home.png)
 
-### Perform Addition
+### Addition Operation
 ![Addition](addnum.png)
 
 ### Result
